@@ -5,7 +5,7 @@
     <img src="https://images.vexels.com/media/users/3/316791/isolated/preview/7bd957a2f9ffe91e3b0d00609200041a-goose-holding-a-baseball-bat.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">VR HR Derby Math Game</h3>
+  <h1 align="center">VR HR Derby Math Game</h1>
 
   <p align="center">
     VR video game developed in Unity for practicing early math
