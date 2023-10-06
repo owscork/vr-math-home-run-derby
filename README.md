@@ -18,30 +18,41 @@
 
 ***
 
+## Table of contents
+
+* [Built With](#built-with)
+* [About the Project](#about-the-project)
+* [Overview of Game](#overview-of-game)
+  + [Concept](#concept)
+  + [Objective](#objective)
+  + [Structure](#structure)
+  + [Gameplay](#gameplay)
+  
+
+
 ## Built With
 
 ![Unity][Unity.ico]
 ![Static Badge][WebGL.ico]
 ![CSharp][CSharp.ico]
 
-***
-
-## Summary
+## About the Project
 
 Built a virtual reality video game in Unity, originally developed to be played with the Oculus Quest 2 and modified to be played as a 2D web game hosted through WebGL, 
 where the player participates in a homerun derby that requires a correct answer to a basic math equation prior to each pitch. Incorrect answers resulted in ground-outs and correct 
 answers resulted in homeruns, if the player makes contact with the pitch.
 
 
-## Game Overview
+## Overview of Game
 
-#### Concept
+### Concept
 
-#### Game Structure
+### Objective
 
-#### Action
+### Structure
 
-#### Objective
+### Gameplay
+
 
 
 
