@@ -42,6 +42,7 @@ Built a virtual reality video game in Unity, originally developed to be played w
 where the player participates in a homerun derby that requires a correct answer to a basic math equation prior to each pitch. Incorrect answers resulted in ground-outs and correct 
 answers resulted in homeruns, if the player makes contact with the pitch.
 
+This was my first time using Unity to build a game in VR, so aesthetics & graphics were not major areas of focus whereas the functionality & completion of a working playable virtual reality game were. The project was also given a deadline of two weeks from assignment to build, so only what was necessary for a working demo was completed.
 
 ## Overview of Game
 
